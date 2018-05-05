@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-datecs-printer-tamil",
+  "version": "0.8.2",
+  "description": "Cordova Datecs Mobile Bluetooth Printer Plugin",
+  "cordova": {
+    "id": "cordova-plugin-datecs-printer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gunasekaran15/Cordova-Datecs-Printer-Plugin-Tamil.git"
+  },
+  "keywords": [
+    "cordova",
+    "bluetooth",
+    "printer",
+    "datecs",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "guna",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Gunasekaran15/Cordova-Datecs-Printer-Plugin-Tamil/issues"
+  },
+  "homepage": "https://github.com/Gunasekaran15/Cordova-Datecs-Printer-Plugin-Tamil#readme"
+}
